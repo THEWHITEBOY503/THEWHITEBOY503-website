@@ -4,6 +4,8 @@
 
 ![Image](https://treat.had-a.party/9fab86dc.gif)
 
+Directory:
+
 [Check out my GitHub](https://github.com/THEWHITEBOY503)
 
 [YouTube](https://www.youtube.com/THEWHITEBOY503)
