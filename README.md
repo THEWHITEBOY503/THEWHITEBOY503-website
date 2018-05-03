@@ -8,4 +8,4 @@
 
 [Old Website](http://wb503.ga)
 
-![Image](THEWHITEBOY503-website/finallogo.gif)
+![Image](http://github.com/THEWHITEBOY503/THEWHITEBOY503-website/finallogo.gif)
