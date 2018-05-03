@@ -14,10 +14,12 @@ Directory:
 
 [SoundCloud](https://soundcloud.com/thewhiteboy503)
 
-[cFTP Services](https://discord.gg/aSpEq2)
+[cFTP Services (Get 5 GB of storage free when you sign up!)](https://discord.gg/aSpEq2)
 
 [Discord](https://discord.gg/wXU6Q9Z)
 
 [Spotify](https://open.spotify.com/user/mrmrcool185?si=XtoPuQBTSBWDZ-YGelULyA)
 
-[Donate with PayPal (please do i need money)](http://paypal.me/THEWHITEBOY503)
+[Donate with PayPal (please do I need money)](http://paypal.me/THEWHITEBOY503)
+
+[Twitch (Don't be surprised if I'm not streaming, I don't stream often.)](https://www.twitch.tv/mrmrcool185)
