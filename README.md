@@ -1,6 +1,6 @@
-## THEWHITEBOY503
+# THEWHITEBOY503
 
-Welcome to the (soon to be) new THEWHITEBOY503 website. Changes will be taking place over the next few days, so be watching.
+### Welcome to the (soon to be) new THEWHITEBOY503 website. Changes will be taking place over the next few days, so be watching.
 
 [Check out my GitHub](https://github.com/THEWHITEBOY503)
 
@@ -34,17 +34,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
