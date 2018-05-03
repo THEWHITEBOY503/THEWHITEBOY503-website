@@ -3,9 +3,12 @@
 Welcome to the (soon to be) new THEWHITEBOY503 website. Changes will be taking place over the next few days, so be watching.
 
 [Check out my GitHub](https://github.com/THEWHITEBOY503)
+
 [YouTube](https://www.youtube.com/THEWHITEBOY503)
 
-You can use the [editor on GitHub](https://github.com/THEWHITEBOY503/experimentalwebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Old Website](http://wb503.ga)
+
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -30,6 +33,19 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
