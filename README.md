@@ -7,3 +7,5 @@
 [YouTube](https://www.youtube.com/THEWHITEBOY503)
 
 [Old Website](http://wb503.ga)
+
+![Image](https://github.com/THEWHITEBOY503/THEWHITEBOY503-website/blob/master/finallogo.gif)
