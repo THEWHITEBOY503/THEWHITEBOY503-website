@@ -9,3 +9,13 @@
 [YouTube](https://www.youtube.com/THEWHITEBOY503)
 
 [Old Website](http://wb503.ga)
+
+[SoundCloud](https://soundcloud.com/thewhiteboy503)
+
+[cFTP Services](https://discord.gg/aSpEq2)
+
+[Discord](https://discord.gg/wXU6Q9Z)
+
+[Spotify](https://open.spotify.com/user/mrmrcool185?si=XtoPuQBTSBWDZ-YGelULyA)
+
+[Donate with PayPal (please do i need money)](http://paypal.me/THEWHITEBOY503)
