@@ -14,7 +14,7 @@ Directory:
 
 [SoundCloud](https://soundcloud.com/thewhiteboy503)
 
-[cFTP Services (Get 5 GB of storage free when you sign up!)](https://discord.gg/aSpEq2)
+[cFTP Services (Get 5 GB of storage free when you](https://thewhiteboy503.github.io/cFTPservices/) [sign up](https://discord.gg/aSpEq2)!)
 
 [Discord](https://discord.gg/wXU6Q9Z)
 
