@@ -14,7 +14,7 @@ Directory:
 
 [SoundCloud](https://soundcloud.com/thewhiteboy503)
 
-[cFTP Services (Get 5 GB of storage free when you sign up!)](https://discord.gg/aSpEq2)
+[cFTP Services (Get 5 GB of storage free when you sign up!)](https:thewhiteboy503.github.io/cFTPservices)
 
 [Discord](https://discord.gg/wXU6Q9Z)
 
@@ -23,3 +23,5 @@ Directory:
 [Donate with PayPal (please do I need money)](http://paypal.me/THEWHITEBOY503)
 
 [Twitch (Don't be surprised if I'm not streaming, I don't stream often.)](https://www.twitch.tv/mrmrcool185)
+
+[ConnerBot](https://thewhiteboy503.github.io/ConnerBot/)
