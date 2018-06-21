@@ -23,3 +23,5 @@ Directory:
 [Donate with PayPal (please do I need money)](http://paypal.me/THEWHITEBOY503)
 
 [Twitch (Don't be surprised if I'm not streaming, I don't stream often.)](https://www.twitch.tv/mrmrcool185)
+
+[ConnerBot](https://thewhiteboy503.github.io/ConnerBot/)
