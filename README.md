@@ -18,6 +18,8 @@ Directory:
 
 [Discord](https://discord.gg/wXU6Q9Z)
 
+Twitter: @realWHTIEBOY503
+
 [Spotify](https://open.spotify.com/user/mrmrcool185?si=XtoPuQBTSBWDZ-YGelULyA)
 
 [Donate with PayPal (please do I need money)](http://paypal.me/THEWHITEBOY503)
