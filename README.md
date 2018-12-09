@@ -2,7 +2,7 @@
 
 ### Welcome to the (soon to be) new THEWHITEBOY503 website. Changes will be taking place over the next few days, so be watching.
 
-![Image](https://treat.had-a.party/9fab86dc.gif)
+![Image](https://death.is-for.me/i/j1vc.gif)
 
 Directory:
 
@@ -10,7 +10,7 @@ Directory:
 
 [YouTube](https://www.youtube.com/THEWHITEBOY503)
 
-[Old Website](http://wb503.ga)
+[Old Website](http://thewb503.tk)
 
 [SoundCloud](https://soundcloud.com/thewhiteboy503)
 
